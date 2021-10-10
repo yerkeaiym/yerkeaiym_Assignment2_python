@@ -1,0 +1,1 @@
+In this assignment 2, we should to do scraping for cryptocurrencies from website like Coinmarketcap.com. For that I use libraries like requesrs and BeautifulSoup.I have main class and scraping class. Here for scraping I use functions which get for us name,price,marketcap,volume and other news about cryptocurrencies. Main class for chooseing the crytocurrencies.
