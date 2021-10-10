@@ -20,7 +20,8 @@ pip install  beautifulsoup4
 
 ## Usage
 
-```from bs4 import BeautifulSoup
+```
+from bs4 import BeautifulSoup
 soup = BeautifulSoup(html_doc, 'html.parser')
 ```
 
