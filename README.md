@@ -25,9 +25,4 @@ soup = BeautifulSoup(html_doc, 'html.parser')
 ```
 
 ## Examples
->>>from bs4 import BeautifulSoup
-soup = BeautifulSoup(html_doc, 'html.parser')
-
->>> import requests
->>> r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
->>> r.status_code
+Here we use this this libraries for scraping 
